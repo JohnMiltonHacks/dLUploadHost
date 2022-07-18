@@ -1,3 +1,3 @@
 module.exports = {
-  js: process.env.SURI_JS === '1',
+  js: process.env.J0hnMilt0n === '1',
 }
