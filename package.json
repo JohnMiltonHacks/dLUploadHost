@@ -1,12 +1,12 @@
 {
-  "name": "suri",
+  "name": "dLUploadHost",
   "version": "0.5.0",
   "private": true,
   "description": "Your own link shortener that's easily deployed as a static site (for free)",
-  "homepage": "https://github.com/jstayton/suri#readme",
-  "bugs": "https://github.com/jstayton/suri/issues",
+  "homepage": "https://github.com/JohnMiltonHacks/dLUploadHost#readme",
+  "bugs": "https://github.com/JohnMiltonHacks/dLUploadHost/issues",
   "license": "MIT",
-  "repository": "jstayton/suri",
+  "repository": "JohnMiltonHacks/dLUploadHost",
   "scripts": {
     "build": "npm run clean && NODE_ENV=production eleventy",
     "clean": "del _site",
