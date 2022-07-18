@@ -1,12 +1,12 @@
 spec:
-  name: suri
+  name: dLUploadHost 
   static_sites:
-    - name: suri
+    - name: dLUploadHost
       git:
-        repo_clone_url: https://github.com/jstayton/suri.git
+        repo_clone_url: https://github.com/JohnMiltonHacks/dLUploadHost.git
         branch: master
       envs:
-        - key: SURI_JS
+        - key: J0hnMilt0n
           value: '0'
       build_command: npm run build
       output_dir: _site
