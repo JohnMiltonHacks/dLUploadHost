@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: suri
+    name: dLUploadHost 
     env: static
     buildCommand: npm run build
     staticPublishPath: ./_site
     envVars:
-      - key: SURI_JS
+      - key: J0hnMilt0n
         value: 0
